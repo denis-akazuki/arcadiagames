@@ -1,18 +1,18 @@
 <resources>
-    <string name="app_name">AppUpdater</string>
+    <string name="app_name">Arcadia Launcher</string>
 
-    <string name="app_updater_start_notification_title">Тест</string>
-    <string name="app_updater_start_notification_content">Тест</string>
+    <string name="app_updater_start_notification_title">Обновление новой версии...</string>
+    <string name="app_updater_start_notification_content">Получение данных для загрузки…</string>
 
-    <string name="app_updater_progress_notification_title">Тест</string>
-    <string name="app_updater_progress_notification_content">Тест</string>
+    <string name="app_updater_progress_notification_title">Обновление новой версии..</string>
+    <string name="app_updater_progress_notification_content">Загрузка обновлений …</string>
 
-    <string name="app_updater_finish_notification_title">Тест</string>
-    <string name="app_updater_finish_notification_content">Тест</string>
+    <string name="app_updater_finish_notification_title">Загрузка завершена</string>
+    <string name="app_updater_finish_notification_content">Нажмите, чтобы установить</string>
 
-    <string name="app_updater_error_notification_title">Тест</string>
-    <string name="app_updater_error_notification_content">Тест</string>
-    <string name="app_updater_error_notification_content_re_download">Тест</string>
+    <string name="app_updater_error_notification_title">Ошибка загрузки</string>
+    <string name="app_updater_error_notification_content">Нажмите, чтобы закрыть уведомление</string>
+    <string name="app_updater_error_notification_content_re_download">Нажмите, чтобы загрузить снова</string>
 
 
 </resources>
